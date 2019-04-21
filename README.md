@@ -4,7 +4,7 @@ The commands on file:<br><br>
 defastro: indicates that a new astro is about to be defined <br><br>
 Estrela -name of star-/ Planeta -name of planet- / Lua -name of moon- : self explanatory<br><br>
 If it is a moon (Lua):<br><br>
-Orbita -name of planet that it orbits-<br><br>
+Orbita -name of planet that it orbits- You have to define the planet before its moon.<br><br>
 Temperatura -integer temperature of the new astro at any pattern you want (keep it the same for every astro in file: Celcius, Fahrenheit, Kelvin)-<br><br>
 Raio -Radius of the new astro (integer)-<br><br>
 Gravity -floating point (number with a dot like 2.1 or 546.743) indicating the gravity of the astro-<br><br>
