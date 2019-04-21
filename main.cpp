@@ -1,6 +1,7 @@
 #include <iostream>
 #include <fstream>
 #include <iomanip>
+#include <stdio.h>
 #include "Astro.hpp"
 #include "Planeta.hpp"
 #include "SistemaSolar.hpp"
@@ -34,6 +35,7 @@ int main() {
             cout<<"Coldest planet: "<<novoSistema.planetaMaisFrio()<<endl;
             cout<<"Biggest planet: "<<novoSistema.maiorPlaneta()<<endl;
             cout<<"Smallest planet: "<<novoSistema.menorPlaneta()<<endl;
+            system("PAUSE");
         }else{
             cout<<"file could not be open"<<endl;
         }
