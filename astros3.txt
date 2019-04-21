@@ -1,0 +1,2203 @@
+
+defastro
+Estrela Nicki
+Temperatura 24900
+Raio 3530000
+Gravidade 71700.000000
+Gasoso True
+
+defastro
+Estrela Stevana
+Temperatura 21800
+Raio 1980000
+Gravidade 111857.142857
+Gasoso True
+
+defastro
+Estrela Cora
+Temperatura 15400
+Raio 7076000
+Gravidade 200000.000000
+Gasoso True
+
+defastro
+Estrela Katharine
+Temperatura 16700
+Raio 7008000
+Gravidade 299666.666667
+Gasoso True
+
+defastro
+Estrela Lib
+Temperatura 20900
+Raio 2702000
+Gravidade 24714.285714
+Gasoso True
+
+defastro
+Estrela Lianna
+Temperatura 27300
+Raio 2042000
+Gravidade 251333.333333
+Gasoso False
+
+defastro
+Estrela Dorri
+Temperatura 12700
+Raio 8553000
+Gravidade 106333.333333
+Gasoso True
+
+defastro
+Planeta Kissee
+Temperatura 90
+Raio 4680
+Gravidade 155.333333
+Gasoso True
+
+defastro
+Planeta Ninette
+Temperatura 65
+Raio 28
+Gravidade 19.500000
+Gasoso False
+
+defastro
+Planeta Ruthy
+Temperatura -1
+Raio 6761
+Gravidade 92.444444
+Gasoso True
+
+defastro
+Planeta Fawne
+Temperatura 48
+Raio 8694
+Gravidade 85.000000
+Gasoso False
+
+defastro
+Planeta Freda
+Temperatura -2
+Raio 2449
+Gravidade 239.666667
+Gasoso False
+
+defastro
+Planeta Bettina
+Temperatura 50
+Raio 8316
+Gravidade 71.700000
+Gasoso True
+
+defastro
+Planeta Coriss
+Temperatura -23
+Raio 2951
+Gravidade 185.200000
+Gasoso False
+
+defastro
+Planeta Rozalin
+Temperatura 57
+Raio 2559
+Gravidade 50.857143
+Gasoso False
+
+defastro
+Planeta Annelise
+Temperatura 45
+Raio 9414
+Gravidade 46.200000
+Gasoso False
+
+defastro
+Planeta Katey
+Temperatura -32
+Raio 7126
+Gravidade 78.750000
+Gasoso True
+
+defastro
+Planeta Hayley
+Temperatura 53
+Raio 3257
+Gravidade 36.000000
+Gasoso True
+
+defastro
+Planeta Karil
+Temperatura 67
+Raio 4458
+Gravidade 87.000000
+Gasoso False
+
+defastro
+Planeta Aurore
+Temperatura 8
+Raio 6709
+Gravidade 231.250000
+Gasoso False
+
+defastro
+Planeta Blondie
+Temperatura -85
+Raio 9915
+Gravidade 72.333333
+Gasoso False
+
+defastro
+Planeta Eachelle
+Temperatura 33
+Raio 5612
+Gravidade 25.444444
+Gasoso False
+
+defastro
+Planeta Arabelle
+Temperatura -82
+Raio 6490
+Gravidade 310.500000
+Gasoso False
+
+defastro
+Planeta Randee
+Temperatura -20
+Raio 3118
+Gravidade 154.000000
+Gasoso False
+
+defastro
+Planeta Pearle
+Temperatura -75
+Raio 4832
+Gravidade 91.000000
+Gasoso False
+
+defastro
+Planeta Nettie
+Temperatura 42
+Raio 6110
+Gravidade 65.500000
+Gasoso True
+
+defastro
+Planeta Reena
+Temperatura 32
+Raio 4836
+Gravidade 10.000000
+Gasoso True
+
+defastro
+Planeta Avivah
+Temperatura -90
+Raio 4890
+Gravidade 8.400000
+Gasoso False
+
+defastro
+Planeta Jacklyn
+Temperatura 72
+Raio 4767
+Gravidade 42.400000
+Gasoso True
+
+defastro
+Planeta Sibley
+Temperatura 26
+Raio 106
+Gravidade 250.500000
+Gasoso False
+
+defastro
+Planeta Rachelle
+Temperatura 18
+Raio 7960
+Gravidade 42.000000
+Gasoso True
+
+defastro
+Planeta Teresina
+Temperatura 52
+Raio 7781
+Gravidade 101.250000
+Gasoso True
+
+defastro
+Planeta Patrica
+Temperatura -12
+Raio 3825
+Gravidade 191.400000
+Gasoso True
+
+defastro
+Planeta Liuka
+Temperatura 14
+Raio 2071
+Gravidade 140.333333
+Gasoso True
+
+defastro
+Planeta Bobbee
+Temperatura -14
+Raio 2389
+Gravidade 76.444444
+Gasoso True
+
+defastro
+Planeta Lory
+Temperatura -48
+Raio 1038
+Gravidade 20.666667
+Gasoso False
+
+defastro
+Planeta Felicdad
+Temperatura 75
+Raio 7643
+Gravidade 54.800000
+Gasoso False
+
+defastro
+Planeta Ronalda
+Temperatura -8
+Raio 2336
+Gravidade 463.000000
+Gasoso False
+
+defastro
+Planeta Lonna
+Temperatura 2
+Raio 8223
+Gravidade 903.000000
+Gasoso False
+
+defastro
+Planeta Hannie
+Temperatura -66
+Raio 449
+Gravidade 132.000000
+Gasoso True
+
+defastro
+Planeta Lacy
+Temperatura -50
+Raio 7523
+Gravidade 115.250000
+Gasoso False
+
+defastro
+Planeta Jodi
+Temperatura -40
+Raio 6252
+Gravidade 742.000000
+Gasoso False
+
+defastro
+Planeta Freddy
+Temperatura 96
+Raio 4025
+Gravidade 101.600000
+Gasoso False
+
+defastro
+Planeta Victoria
+Temperatura 80
+Raio 1546
+Gravidade 193.400000
+Gasoso False
+
+defastro
+Planeta Carmine
+Temperatura 2
+Raio 896
+Gravidade 140.000000
+Gasoso True
+
+defastro
+Planeta Minny
+Temperatura 15
+Raio 2693
+Gravidade 58.000000
+Gasoso True
+
+defastro
+Planeta Lilas
+Temperatura -85
+Raio 7500
+Gravidade 19.300000
+Gasoso True
+
+defastro
+Planeta Rosemaria
+Temperatura 81
+Raio 9037
+Gravidade 87.000000
+Gasoso False
+
+defastro
+Planeta Elnore
+Temperatura -88
+Raio 9377
+Gravidade 399.000000
+Gasoso True
+
+defastro
+Planeta Minda
+Temperatura -2
+Raio 464
+Gravidade 77.333333
+Gasoso False
+
+defastro
+Planeta Hettie
+Temperatura 58
+Raio 3828
+Gravidade 242.500000
+Gasoso False
+
+defastro
+Planeta Donnamarie
+Temperatura 59
+Raio 1745
+Gravidade 37.444444
+Gasoso True
+
+defastro
+Planeta Marybelle
+Temperatura 94
+Raio 4319
+Gravidade 83.714286
+Gasoso False
+
+defastro
+Planeta Dorice
+Temperatura 87
+Raio 9575
+Gravidade 104.750000
+Gasoso True
+
+defastro
+Planeta Alidia
+Temperatura -39
+Raio 1417
+Gravidade 105.000000
+Gasoso False
+
+defastro
+Planeta Lilia
+Temperatura 45
+Raio 7445
+Gravidade 24.285714
+Gasoso False
+
+defastro
+Planeta Siobhan
+Temperatura -97
+Raio 5912
+Gravidade 59.666667
+Gasoso False
+
+defastro
+Planeta Cristy
+Temperatura 67
+Raio 8652
+Gravidade 94.125000
+Gasoso True
+
+defastro
+Planeta Karisa
+Temperatura -26
+Raio 489
+Gravidade 71.428571
+Gasoso False
+
+defastro
+Planeta Bobbette
+Temperatura -80
+Raio 161
+Gravidade 39.444444
+Gasoso True
+
+defastro
+Planeta Aili
+Temperatura 41
+Raio 3503
+Gravidade 87.000000
+Gasoso False
+
+defastro
+Planeta Pavia
+Temperatura 80
+Raio 6513
+Gravidade 59.285714
+Gasoso False
+
+defastro
+Planeta Annis
+Temperatura -53
+Raio 339
+Gravidade 481.000000
+Gasoso False
+
+defastro
+Planeta Halie
+Temperatura -26
+Raio 1546
+Gravidade 251.333333
+Gasoso True
+
+defastro
+Planeta Christina
+Temperatura 67
+Raio 2212
+Gravidade 33.400000
+Gasoso True
+
+defastro
+Planeta Ainslee
+Temperatura 66
+Raio 1671
+Gravidade 18.500000
+Gasoso True
+
+defastro
+Planeta Daphene
+Temperatura 80
+Raio 5897
+Gravidade 54.777778
+Gasoso False
+
+defastro
+Planeta Ruperta
+Temperatura -75
+Raio 9392
+Gravidade 130.800000
+Gasoso True
+
+defastro
+Planeta Roana
+Temperatura -11
+Raio 6135
+Gravidade 86.125000
+Gasoso False
+
+defastro
+Planeta Jemimah
+Temperatura 92
+Raio 259
+Gravidade 202.666667
+Gasoso True
+
+defastro
+Planeta Dian
+Temperatura 80
+Raio 3039
+Gravidade 164.666667
+Gasoso True
+
+defastro
+Planeta Cicily
+Temperatura -66
+Raio 6714
+Gravidade 74.333333
+Gasoso False
+
+defastro
+Planeta Romola
+Temperatura 73
+Raio 1196
+Gravidade 107.875000
+Gasoso True
+
+defastro
+Planeta Pandora
+Temperatura -3
+Raio 8978
+Gravidade 131.000000
+Gasoso True
+
+defastro
+Planeta Nanny
+Temperatura -7
+Raio 5403
+Gravidade 44.875000
+Gasoso False
+
+defastro
+Planeta Ramonda
+Temperatura -14
+Raio 4112
+Gravidade 868.000000
+Gasoso False
+
+defastro
+Planeta Salome
+Temperatura -47
+Raio 6350
+Gravidade 64.900000
+Gasoso True
+
+defastro
+Planeta Nan
+Temperatura -13
+Raio 2674
+Gravidade 56.800000
+Gasoso True
+
+defastro
+Planeta Edie
+Temperatura -85
+Raio 1935
+Gravidade 83.714286
+Gasoso False
+
+defastro
+Planeta Datha
+Temperatura -9
+Raio 2637
+Gravidade 188.000000
+Gasoso False
+
+defastro
+Planeta Lindsay
+Temperatura -92
+Raio 1773
+Gravidade 483.000000
+Gasoso True
+
+defastro
+Planeta Melodee
+Temperatura -96
+Raio 4270
+Gravidade 125.333333
+Gasoso True
+
+defastro
+Planeta Chelsie
+Temperatura -72
+Raio 8139
+Gravidade 62.555556
+Gasoso False
+
+defastro
+Planeta Wren
+Temperatura -6
+Raio 2069
+Gravidade 93.333333
+Gasoso True
+
+defastro
+Planeta Fredelia
+Temperatura 72
+Raio 3581
+Gravidade 135.000000
+Gasoso False
+
+defastro
+Planeta Eada
+Temperatura -26
+Raio 5154
+Gravidade 193.333333
+Gasoso True
+
+defastro
+Planeta Emyle
+Temperatura 90
+Raio 7711
+Gravidade 75.500000
+Gasoso True
+
+defastro
+Planeta Teressa
+Temperatura 4
+Raio 257
+Gravidade 92.857143
+Gasoso False
+
+defastro
+Planeta Kendra
+Temperatura 71
+Raio 706
+Gravidade 38.333333
+Gasoso False
+
+defastro
+Planeta Kalina
+Temperatura 99
+Raio 2284
+Gravidade 101.250000
+Gasoso True
+
+defastro
+Planeta Hyacinthia
+Temperatura -88
+Raio 3219
+Gravidade 165.000000
+Gasoso False
+
+defastro
+Planeta Dollie
+Temperatura -61
+Raio 367
+Gravidade 73.000000
+Gasoso False
+
+defastro
+Planeta Gennie
+Temperatura 8
+Raio 764
+Gravidade 6.333333
+Gasoso True
+
+defastro
+Planeta Rochelle
+Temperatura -99
+Raio 1919
+Gravidade 868.000000
+Gasoso True
+
+defastro
+Planeta Celestyn
+Temperatura -19
+Raio 182
+Gravidade 26.000000
+Gasoso True
+
+defastro
+Planeta Lorene
+Temperatura 40
+Raio 9494
+Gravidade 39.444444
+Gasoso True
+
+defastro
+Planeta Meryl
+Temperatura -58
+Raio 1159
+Gravidade 125.333333
+Gasoso True
+
+defastro
+Planeta Riane
+Temperatura -84
+Raio 5351
+Gravidade 259.666667
+Gasoso False
+
+defastro
+Planeta Anett
+Temperatura -42
+Raio 5513
+Gravidade 29.142857
+Gasoso True
+
+defastro
+Planeta Gael
+Temperatura 43
+Raio 5839
+Gravidade 0.700000
+Gasoso True
+
+defastro
+Planeta Joey
+Temperatura 94
+Raio 9928
+Gravidade 80.000000
+Gasoso True
+
+defastro
+Lua Allsun
+Orbita Bobbee
+Temperatura -56
+Raio 6058
+Gravidade 568.000000
+Gasoso False
+
+defastro
+Lua Sophia
+Orbita Rachelle
+Temperatura 50
+Raio 908
+Gravidade 52.000000
+Gasoso True
+
+defastro
+Lua Coraline
+Orbita Lory
+Temperatura 0
+Raio 4052
+Gravidade 182.500000
+Gasoso False
+
+defastro
+Lua Janenna
+Orbita Daphene
+Temperatura 26
+Raio 9204
+Gravidade 190.500000
+Gasoso True
+
+defastro
+Lua Evy
+Orbita Sibley
+Temperatura 26
+Raio 4466
+Gravidade 106.800000
+Gasoso False
+
+defastro
+Lua Brunhilda
+Orbita Romola
+Temperatura -27
+Raio 7596
+Gravidade 106.200000
+Gasoso True
+
+defastro
+Lua Carlita
+Orbita Hayley
+Temperatura 96
+Raio 2661
+Gravidade 82.700000
+Gasoso False
+
+defastro
+Lua Tory
+Orbita Karisa
+Temperatura -93
+Raio 2257
+Gravidade 242.500000
+Gasoso True
+
+defastro
+Lua Kristine
+Orbita Lonna
+Temperatura -25
+Raio 7467
+Gravidade 86.666667
+Gasoso True
+
+defastro
+Lua Janeva
+Orbita Roana
+Temperatura 54
+Raio 2113
+Gravidade 252.500000
+Gasoso True
+
+defastro
+Lua Chlo
+Orbita Ruperta
+Temperatura 20
+Raio 8500
+Gravidade 193.400000
+Gasoso False
+
+defastro
+Lua Charmaine
+Orbita Ronalda
+Temperatura -7
+Raio 1909
+Gravidade 96.875000
+Gasoso False
+
+defastro
+Lua Bernadene
+Orbita Dian
+Temperatura 28
+Raio 6675
+Gravidade 986.000000
+Gasoso False
+
+defastro
+Lua Liuka
+Orbita Jacklyn
+Temperatura -21
+Raio 5672
+Gravidade 129.000000
+Gasoso False
+
+defastro
+Lua Hynda
+Orbita Pandora
+Temperatura -20
+Raio 2941
+Gravidade 249.250000
+Gasoso False
+
+defastro
+Lua Daveen
+Orbita Freda
+Temperatura 94
+Raio 359
+Gravidade 221.666667
+Gasoso False
+
+defastro
+Lua Melisenda
+Orbita Emyle
+Temperatura -9
+Raio 6570
+Gravidade 73.777778
+Gasoso True
+
+defastro
+Lua Ondrea
+Orbita Bobbette
+Temperatura -33
+Raio 6640
+Gravidade 58.888889
+Gasoso True
+
+defastro
+Lua Libbey
+Orbita Minda
+Temperatura -11
+Raio 1713
+Gravidade 0.700000
+Gasoso True
+
+defastro
+Lua Tanya
+Orbita Dorice
+Temperatura -21
+Raio 200
+Gravidade 120.666667
+Gasoso True
+
+defastro
+Lua Auguste
+Orbita Aurore
+Temperatura -85
+Raio 1532
+Gravidade 72.800000
+Gasoso False
+
+defastro
+Lua Marylinda
+Orbita Aurore
+Temperatura 57
+Raio 8616
+Gravidade 39.750000
+Gasoso True
+
+defastro
+Lua Adelina
+Orbita Gennie
+Temperatura 83
+Raio 9212
+Gravidade 48.000000
+Gasoso False
+
+defastro
+Lua Carlotta
+Orbita Kissee
+Temperatura -28
+Raio 6733
+Gravidade 153.000000
+Gasoso False
+
+defastro
+Lua Myrle
+Orbita Ramonda
+Temperatura 84
+Raio 8330
+Gravidade 37.500000
+Gasoso False
+
+defastro
+Lua Pansie
+Orbita Ainslee
+Temperatura -81
+Raio 779
+Gravidade 242.250000
+Gasoso True
+
+defastro
+Lua Carley
+Orbita Sibley
+Temperatura -8
+Raio 8303
+Gravidade 62.750000
+Gasoso False
+
+defastro
+Lua Arlina
+Orbita Teresina
+Temperatura -24
+Raio 4023
+Gravidade 8.666667
+Gasoso False
+
+defastro
+Lua Corine
+Orbita Ramonda
+Temperatura -9
+Raio 5859
+Gravidade 80.000000
+Gasoso True
+
+defastro
+Lua Alida
+Orbita Celestyn
+Temperatura 45
+Raio 7760
+Gravidade 3.200000
+Gasoso False
+
+defastro
+Lua Jayme
+Orbita Bettina
+Temperatura 98
+Raio 7291
+Gravidade 197.250000
+Gasoso False
+
+defastro
+Lua Pennie
+Orbita Lory
+Temperatura -38
+Raio 302
+Gravidade 10.600000
+Gasoso True
+
+defastro
+Lua Cecily
+Orbita Sibley
+Temperatura 32
+Raio 3001
+Gravidade 152.000000
+Gasoso True
+
+defastro
+Lua Carmelina
+Orbita Bobbette
+Temperatura -14
+Raio 4826
+Gravidade 12.666667
+Gasoso False
+
+defastro
+Lua Ardenia
+Orbita Carmine
+Temperatura -37
+Raio 911
+Gravidade 9.888889
+Gasoso False
+
+defastro
+Lua Alica
+Orbita Daphene
+Temperatura -90
+Raio 6425
+Gravidade 196.000000
+Gasoso True
+
+defastro
+Lua Giorgia
+Orbita Fredelia
+Temperatura 99
+Raio 2932
+Gravidade 129.000000
+Gasoso False
+
+defastro
+Lua Cathrin
+Orbita Victoria
+Temperatura 64
+Raio 4415
+Gravidade 14.300000
+Gasoso True
+
+defastro
+Lua Alidia
+Orbita Randee
+Temperatura 92
+Raio 648
+Gravidade 448.000000
+Gasoso True
+
+defastro
+Lua Berthe
+Orbita Lorene
+Temperatura 26
+Raio 7565
+Gravidade 25.666667
+Gasoso False
+
+defastro
+Lua Em
+Orbita Dollie
+Temperatura 30
+Raio 2393
+Gravidade 549.000000
+Gasoso False
+
+defastro
+Lua Delly
+Orbita Rozalin
+Temperatura 81
+Raio 8935
+Gravidade 191.333333
+Gasoso False
+
+defastro
+Lua Emelia
+Orbita Ramonda
+Temperatura 41
+Raio 8649
+Gravidade 80.000000
+Gasoso True
+
+defastro
+Lua Katey
+Orbita Blondie
+Temperatura -53
+Raio 9874
+Gravidade 285.000000
+Gasoso False
+
+defastro
+Lua Kare
+Orbita Rochelle
+Temperatura -22
+Raio 3230
+Gravidade 69.714286
+Gasoso False
+
+defastro
+Lua Karalee
+Orbita Romola
+Temperatura -37
+Raio 3127
+Gravidade 13.500000
+Gasoso True
+
+defastro
+Lua Dorolice
+Orbita Teressa
+Temperatura -83
+Raio 1495
+Gravidade 73.500000
+Gasoso False
+
+defastro
+Lua Polly
+Orbita Annis
+Temperatura 75
+Raio 9817
+Gravidade 917.000000
+Gasoso True
+
+defastro
+Lua Marrissa
+Orbita Karil
+Temperatura 24
+Raio 2018
+Gravidade 131.333333
+Gasoso False
+
+defastro
+Lua Rachael
+Orbita Romola
+Temperatura 90
+Raio 287
+Gravidade 58.250000
+Gasoso True
+
+defastro
+Lua Rosamond
+Orbita Lindsay
+Temperatura -52
+Raio 1779
+Gravidade 69.222222
+Gasoso False
+
+defastro
+Lua Maria
+Orbita Lorene
+Temperatura 92
+Raio 7297
+Gravidade 72.333333
+Gasoso False
+
+defastro
+Lua Terra
+Orbita Minda
+Temperatura -26
+Raio 8778
+Gravidade 25.500000
+Gasoso False
+
+defastro
+Lua Valeria
+Orbita Minny
+Temperatura 0
+Raio 723
+Gravidade 80.333333
+Gasoso True
+
+defastro
+Lua Kris
+Orbita Minny
+Temperatura -88
+Raio 7407
+Gravidade 57.166667
+Gasoso True
+
+defastro
+Lua Pegeen
+Orbita Sibley
+Temperatura -94
+Raio 8354
+Gravidade 85.444444
+Gasoso False
+
+defastro
+Lua Henrie
+Orbita Alidia
+Temperatura -56
+Raio 1658
+Gravidade 159.500000
+Gasoso True
+
+defastro
+Lua Leanora
+Orbita Nanny
+Temperatura -72
+Raio 860
+Gravidade 82.000000
+Gasoso True
+
+defastro
+Lua Frieda
+Orbita Pavia
+Temperatura 28
+Raio 2199
+Gravidade 85.200000
+Gasoso False
+
+defastro
+Lua Antonella
+Orbita Annis
+Temperatura 71
+Raio 9736
+Gravidade 392.500000
+Gasoso False
+
+defastro
+Lua Miguelita
+Orbita Alidia
+Temperatura 17
+Raio 5346
+Gravidade 416.000000
+Gasoso False
+
+defastro
+Lua Cordy
+Orbita Elnore
+Temperatura -72
+Raio 2571
+Gravidade 159.000000
+Gasoso False
+
+defastro
+Lua Rosalinda
+Orbita Rachelle
+Temperatura -2
+Raio 9720
+Gravidade 131.000000
+Gasoso True
+
+defastro
+Lua Agatha
+Orbita Aili
+Temperatura 8
+Raio 3842
+Gravidade 81.000000
+Gasoso True
+
+defastro
+Lua Fannie
+Orbita Gael
+Temperatura 14
+Raio 5929
+Gravidade 33.400000
+Gasoso True
+
+defastro
+Lua Dominga
+Orbita Datha
+Temperatura 86
+Raio 8331
+Gravidade 94.125000
+Gasoso False
+
+defastro
+Lua Marci
+Orbita Pavia
+Temperatura -93
+Raio 205
+Gravidade 87.000000
+Gasoso False
+
+defastro
+Lua Juditha
+Orbita Rozalin
+Temperatura -13
+Raio 6084
+Gravidade 52.000000
+Gasoso False
+
+defastro
+Lua Cecil
+Orbita Ruperta
+Temperatura 0
+Raio 2296
+Gravidade 46.000000
+Gasoso False
+
+defastro
+Lua Lorette
+Orbita Lilia
+Temperatura 49
+Raio 496
+Gravidade 667.000000
+Gasoso True
+
+defastro
+Lua Lonnie
+Orbita Annelise
+Temperatura 12
+Raio 9794
+Gravidade 70.100000
+Gasoso True
+
+defastro
+Lua Zia
+Orbita Victoria
+Temperatura 48
+Raio 7328
+Gravidade 6.333333
+Gasoso True
+
+defastro
+Lua Marni
+Orbita Coriss
+Temperatura 68
+Raio 9050
+Gravidade 51.400000
+Gasoso True
+
+defastro
+Lua Rosalind
+Orbita Nettie
+Temperatura 1
+Raio 1109
+Gravidade 66.714286
+Gasoso False
+
+defastro
+Lua Dulce
+Orbita Romola
+Temperatura -93
+Raio 5361
+Gravidade 110.571429
+Gasoso True
+
+defastro
+Lua Donia
+Orbita Cristy
+Temperatura 93
+Raio 8225
+Gravidade 64.900000
+Gasoso False
+
+defastro
+Lua Amil
+Orbita Reena
+Temperatura -33
+Raio 6926
+Gravidade 266.000000
+Gasoso True
+
+defastro
+Lua Lizzie
+Orbita Jodi
+Temperatura -22
+Raio 9039
+Gravidade 231.000000
+Gasoso False
+
+defastro
+Lua Octavia
+Orbita Pavia
+Temperatura -12
+Raio 2187
+Gravidade 6.500000
+Gasoso True
+
+defastro
+Lua Pammy
+Orbita Pearle
+Temperatura -59
+Raio 1756
+Gravidade 124.500000
+Gasoso False
+
+defastro
+Lua Carena
+Orbita Arabelle
+Temperatura -56
+Raio 3956
+Gravidade 131.333333
+Gasoso True
+
+defastro
+Lua Modestine
+Orbita Daphene
+Temperatura 64
+Raio 8559
+Gravidade 111.714286
+Gasoso False
+
+defastro
+Lua Leoine
+Orbita Blondie
+Temperatura 44
+Raio 6940
+Gravidade 29.500000
+Gasoso False
+
+defastro
+Lua Vi
+Orbita Eachelle
+Temperatura -66
+Raio 8551
+Gravidade 163.333333
+Gasoso True
+
+defastro
+Lua Guinevere
+Orbita Ramonda
+Temperatura 35
+Raio 8290
+Gravidade 218.000000
+Gasoso False
+
+defastro
+Lua Andree
+Orbita Hettie
+Temperatura -34
+Raio 7606
+Gravidade 139.000000
+Gasoso True
+
+defastro
+Lua Meade
+Orbita Eada
+Temperatura 60
+Raio 6545
+Gravidade 210.500000
+Gasoso False
+
+defastro
+Lua Ailina
+Orbita Christina
+Temperatura -6
+Raio 8235
+Gravidade 185.500000
+Gasoso False
+
+defastro
+Lua Jeanna
+Orbita Bobbee
+Temperatura -39
+Raio 5584
+Gravidade 28.444444
+Gasoso True
+
+defastro
+Lua Jourdan
+Orbita Bobbee
+Temperatura -1
+Raio 8547
+Gravidade 177.800000
+Gasoso False
+
+defastro
+Lua Emmaline
+Orbita Salome
+Temperatura 11
+Raio 3430
+Gravidade 102.333333
+Gasoso True
+
+defastro
+Lua Zorina
+Orbita Arabelle
+Temperatura 53
+Raio 1035
+Gravidade 140.166667
+Gasoso False
+
+defastro
+Lua Nadeen
+Orbita Rozalin
+Temperatura 12
+Raio 4103
+Gravidade 33.111111
+Gasoso True
+
+defastro
+Lua Diana
+Orbita Riane
+Temperatura 69
+Raio 3659
+Gravidade 17.100000
+Gasoso True
+
+defastro
+Lua Darsie
+Orbita Cicily
+Temperatura 67
+Raio 8295
+Gravidade 371.500000
+Gasoso True
+
+defastro
+Lua Giana
+Orbita Siobhan
+Temperatura 62
+Raio 2502
+Gravidade 23.857143
+Gasoso True
+
+defastro
+Lua Monika
+Orbita Lilas
+Temperatura 37
+Raio 8249
+Gravidade 80.000000
+Gasoso False
+
+defastro
+Lua Romona
+Orbita Datha
+Temperatura 24
+Raio 5393
+Gravidade 971.000000
+Gasoso False
+
+defastro
+Lua Birgitta
+Orbita Randee
+Temperatura -50
+Raio 8259
+Gravidade 3.625000
+Gasoso False
+
+defastro
+Lua Stevena
+Orbita Melodee
+Temperatura 45
+Raio 9319
+Gravidade 140.000000
+Gasoso True
+
+defastro
+Lua Lacee
+Orbita Joey
+Temperatura -36
+Raio 5270
+Gravidade 429.500000
+Gasoso False
+
+defastro
+Lua Gaby
+Orbita Cicily
+Temperatura 71
+Raio 8539
+Gravidade 23.857143
+Gasoso False
+
+defastro
+Lua Shawn
+Orbita Halie
+Temperatura -49
+Raio 9303
+Gravidade 89.375000
+Gasoso False
+
+defastro
+Lua Ruthe
+Orbita Nan
+Temperatura -79
+Raio 8497
+Gravidade 70.555556
+Gasoso False
+
+defastro
+Lua Kyle
+Orbita Chelsie
+Temperatura 20
+Raio 386
+Gravidade 131.166667
+Gasoso True
+
+defastro
+Lua Angy
+Orbita Kendra
+Temperatura -41
+Raio 9453
+Gravidade 190.000000
+Gasoso False
+
+defastro
+Lua Audrey
+Orbita Bobbette
+Temperatura 20
+Raio 7516
+Gravidade 136.000000
+Gasoso False
+
+defastro
+Lua Donny
+Orbita Ainslee
+Temperatura 33
+Raio 3987
+Gravidade 29.000000
+Gasoso False
+
+defastro
+Lua Emmy
+Orbita Sibley
+Temperatura -51
+Raio 7608
+Gravidade 185.200000
+Gasoso False
+
+defastro
+Lua Carita
+Orbita Nettie
+Temperatura -2
+Raio 5567
+Gravidade 64.333333
+Gasoso True
+
+defastro
+Lua Corri
+Orbita Nanny
+Temperatura -41
+Raio 6344
+Gravidade 956.000000
+Gasoso False
+
+defastro
+Lua Meghan
+Orbita Minny
+Temperatura 2
+Raio 5750
+Gravidade 704.000000
+Gasoso False
+
+defastro
+Lua Enriqueta
+Orbita Freda
+Temperatura 83
+Raio 2498
+Gravidade 235.000000
+Gasoso True
+
+defastro
+Lua Sydney
+Orbita Ramonda
+Temperatura 38
+Raio 7334
+Gravidade 26.714286
+Gasoso False
+
+defastro
+Lua Delphinia
+Orbita Jodi
+Temperatura -49
+Raio 105
+Gravidade 250.500000
+Gasoso True
+
+defastro
+Lua Bonnibelle
+Orbita Kalina
+Temperatura -91
+Raio 4614
+Gravidade 54.100000
+Gasoso False
+
+defastro
+Lua Orelee
+Orbita Randee
+Temperatura -97
+Raio 2866
+Gravidade 259.666667
+Gasoso True
+
+defastro
+Lua Inga
+Orbita Marybelle
+Temperatura 96
+Raio 8067
+Gravidade 73.200000
+Gasoso False
+
+defastro
+Lua Danna
+Orbita Donnamarie
+Temperatura 48
+Raio 2687
+Gravidade 72.000000
+Gasoso False
+
+defastro
+Lua Krista
+Orbita Carmine
+Temperatura 16
+Raio 1038
+Gravidade 38.714286
+Gasoso True
+
+defastro
+Lua Lotte
+Orbita Rozalin
+Temperatura 73
+Raio 6635
+Gravidade 62.500000
+Gasoso True
+
+defastro
+Lua Shirline
+Orbita Katey
+Temperatura -24
+Raio 6256
+Gravidade 673.000000
+Gasoso False
+
+defastro
+Lua Honey
+Orbita Salome
+Temperatura 26
+Raio 8996
+Gravidade 27.250000
+Gasoso True
+
+defastro
+Lua Ginelle
+Orbita Kendra
+Temperatura 12
+Raio 4971
+Gravidade 32.500000
+Gasoso False
+
+defastro
+Lua Florie
+Orbita Nan
+Temperatura -93
+Raio 9456
+Gravidade 40.142857
+Gasoso True
+
+defastro
+Lua Tricia
+Orbita Kissee
+Temperatura -4
+Raio 8426
+Gravidade 144.500000
+Gasoso False
+
+defastro
+Lua Merline
+Orbita Fawne
+Temperatura -50
+Raio 2320
+Gravidade 96.571429
+Gasoso True
+
+defastro
+Lua Ethelyn
+Orbita Eada
+Temperatura -47
+Raio 6295
+Gravidade 66.666667
+Gasoso True
+
+defastro
+Lua Eadie
+Orbita Dorice
+Temperatura -88
+Raio 8582
+Gravidade 41.000000
+Gasoso False
+
+defastro
+Lua Elita
+Orbita Cristy
+Temperatura -34
+Raio 9668
+Gravidade 24.333333
+Gasoso False
+
+defastro
+Lua Joane
+Orbita Donnamarie
+Temperatura -40
+Raio 7982
+Gravidade 600.000000
+Gasoso True
+
+defastro
+Lua Doll
+Orbita Nan
+Temperatura -25
+Raio 6506
+Gravidade 34.500000
+Gasoso True
+
+defastro
+Lua Flss
+Orbita Edie
+Temperatura 29
+Raio 9769
+Gravidade 73.666667
+Gasoso True
+
+defastro
+Lua Donetta
+Orbita Fawne
+Temperatura 43
+Raio 5376
+Gravidade 138.571429
+Gasoso True
+
+defastro
+Lua Giana
+Orbita Jemimah
+Temperatura -98
+Raio 1535
+Gravidade 56.555556
+Gasoso False
+
+defastro
+Lua Mora
+Orbita Meryl
+Temperatura -50
+Raio 2519
+Gravidade 70.857143
+Gasoso True
+
+defastro
+Lua Leila
+Orbita Pearle
+Temperatura -52
+Raio 4564
+Gravidade 104.333333
+Gasoso False
+
+defastro
+Lua Flss
+Orbita Christina
+Temperatura -26
+Raio 5601
+Gravidade 80.333333
+Gasoso True
+
+defastro
+Lua Hermine
+Orbita Teresina
+Temperatura -10
+Raio 3024
+Gravidade 138.571429
+Gasoso False
+
+defastro
+Lua Ashlen
+Orbita Christina
+Temperatura 32
+Raio 1440
+Gravidade 30.000000
+Gasoso False
+
+defastro
+Lua Reeta
+Orbita Bettina
+Temperatura -32
+Raio 2046
+Gravidade 61.500000
+Gasoso True
+
+defastro
+Lua Franky
+Orbita Katey
+Temperatura -31
+Raio 470
+Gravidade 73.500000
+Gasoso True
+
+defastro
+Lua Malina
+Orbita Lacy
+Temperatura 34
+Raio 3886
+Gravidade 149.250000
+Gasoso True
+
+defastro
+Lua Sibella
+Orbita Pearle
+Temperatura -75
+Raio 6893
+Gravidade 106.777778
+Gasoso True
+
+defastro
+Lua Roseanna
+Orbita Hayley
+Temperatura 56
+Raio 843
+Gravidade 6.400000
+Gasoso False
+
+defastro
+Lua Fred
+Orbita Romola
+Temperatura 81
+Raio 7874
+Gravidade 17.666667
+Gasoso False
+
+defastro
+Lua Kaela
+Orbita Avivah
+Temperatura -78
+Raio 1931
+Gravidade 20.571429
+Gasoso True
+
+defastro
+Lua Clarine
+Orbita Christina
+Temperatura 42
+Raio 7131
+Gravidade 3.777778
+Gasoso True
+
+defastro
+Lua Carly
+Orbita Wren
+Temperatura -44
+Raio 581
+Gravidade 100.333333
+Gasoso True
+
+defastro
+Lua Maryl
+Orbita Freddy
+Temperatura 15
+Raio 7609
+Gravidade 971.000000
+Gasoso False
+
+defastro
+Lua Kesley
+Orbita Liuka
+Temperatura 12
+Raio 9236
+Gravidade 66.000000
+Gasoso True
+
+defastro
+Lua Ernestine
+Orbita Dollie
+Temperatura 57
+Raio 2675
+Gravidade 34.000000
+Gasoso True
+
+defastro
+Lua Melodee
+Orbita Kalina
+Temperatura 14
+Raio 2940
+Gravidade 145.000000
+Gasoso False
+
+defastro
+Lua Liuka
+Orbita Avivah
+Temperatura 80
+Raio 5242
+Gravidade 157.600000
+Gasoso True
+
+defastro
+Lua Norrie
+Orbita Alidia
+Temperatura 25
+Raio 1742
+Gravidade 0.700000
+Gasoso False
+
+defastro
+Lua Sileas
+Orbita Lory
+Temperatura -57
+Raio 9737
+Gravidade 74.000000
+Gasoso False
+
+defastro
+Lua Katerina
+Orbita Joey
+Temperatura 42
+Raio 3100
+Gravidade 144.400000
+Gasoso True
+
+defastro
+Lua Lacy
+Orbita Liuka
+Temperatura 2
+Raio 615
+Gravidade 37.500000
+Gasoso False
+
+defastro
+Lua Mildrid
+Orbita Pearle
+Temperatura -88
+Raio 7299
+Gravidade 72.000000
+Gasoso False
+
+defastro
+Lua Tildi
+Orbita Teresina
+Temperatura -76
+Raio 3548
+Gravidade 43.166667
+Gasoso True
+
+defastro
+Lua Aleece
+Orbita Kendra
+Temperatura 73
+Raio 4168
+Gravidade 234.000000
+Gasoso True
+
+defastro
+Lua Kristan
+Orbita Dian
+Temperatura -57
+Raio 4270
+Gravidade 30.444444
+Gasoso True
+
+defastro
+Lua Helge
+Orbita Coriss
+Temperatura 24
+Raio 3347
+Gravidade 78.750000
+Gasoso True
+
+defastro
+Lua Renate
+Orbita Felicdad
+Temperatura -14
+Raio 4388
+Gravidade 13.444444
+Gasoso True
+
+defastro
+Lua Marsha
+Orbita Emyle
+Temperatura 42
+Raio 9286
+Gravidade 158.200000
+Gasoso False
+
+defastro
+Lua Adelind
+Orbita Liuka
+Temperatura -28
+Raio 115
+Gravidade 824.000000
+Gasoso False
+
+defastro
+Lua Cora
+Orbita Roana
+Temperatura 36
+Raio 5066
+Gravidade 62.888889
+Gasoso False
+
+defastro
+Lua Chickie
+Orbita Meryl
+Temperatura -33
+Raio 366
+Gravidade 25.666667
+Gasoso False
+
+defastro
+Lua Milly
+Orbita Meryl
+Temperatura 52
+Raio 493
+Gravidade 4.800000
+Gasoso False
+
+defastro
+Lua Hilary
+Orbita Reena
+Temperatura -36
+Raio 494
+Gravidade 71.555556
+Gasoso True
+
+defastro
+Lua Annabal
+Orbita Lory
+Temperatura 72
+Raio 7330
+Gravidade 135.000000
+Gasoso False
+
+defastro
+Lua Konstanze
+Orbita Hyacinthia
+Temperatura -71
+Raio 7384
+Gravidade 3.000000
+Gasoso False
+
+defastro
+Lua Margie
+Orbita Freda
+Temperatura -14
+Raio 7203
+Gravidade 370.500000
+Gasoso False
+
+defastro
+Lua Lucila
+Orbita Reena
+Temperatura 32
+Raio 6941
+Gravidade 66.000000
+Gasoso True
+
+defastro
+Lua Jessica
+Orbita Elnore
+Temperatura -36
+Raio 8544
+Gravidade 17.777778
+Gasoso False
+
+defastro
+Lua Xylia
+Orbita Cristy
+Temperatura 9
+Raio 4595
+Gravidade 66.000000
+Gasoso True
+
+defastro
+Lua Rozalin
+Orbita Bobbee
+Temperatura -47
+Raio 9603
+Gravidade 202.750000
+Gasoso False
+
+defastro
+Lua Jacintha
+Orbita Hyacinthia
+Temperatura 11
+Raio 5012
+Gravidade 75.500000
+Gasoso True
+
+defastro
+Lua Bunni
+Orbita Ramonda
+Temperatura -63
+Raio 5560
+Gravidade 27.125000
+Gasoso True
+
+defastro
+Lua Charil
+Orbita Avivah
+Temperatura -62
+Raio 1541
+Gravidade 96.500000
+Gasoso True
+
+defastro
+Lua Gisele
+Orbita Sibley
+Temperatura -38
+Raio 4876
+Gravidade 470.000000
+Gasoso True
+
+defastro
+Lua Angeline
+Orbita Edie
+Temperatura 39
+Raio 1059
+Gravidade 144.500000
+Gasoso True
+
+defastro
+Lua Florie
+Orbita Bobbette
+Temperatura 55
+Raio 5171
+Gravidade 12.000000
+Gasoso True
+
+defastro
+Lua Joleen
+Orbita Katey
+Temperatura -57
+Raio 8825
+Gravidade 109.625000
+Gasoso True
+
+defastro
+Lua Meggie
+Orbita Marybelle
+Temperatura -64
+Raio 1187
+Gravidade 74.666667
+Gasoso False
+
+defastro
+Lua Tori
+Orbita Edie
+Temperatura 78
+Raio 6001
+Gravidade 616.000000
+Gasoso True
+
+defastro
+Lua Americana
+Orbita Ramonda
+Temperatura -20
+Raio 53
+Gravidade 0.641000
+Gasoso False
